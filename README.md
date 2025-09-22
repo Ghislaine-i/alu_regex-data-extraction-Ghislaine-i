@@ -1,7 +1,5 @@
 # alu_regex-data-extraction-Ghislaine-i
 Regex-based data extraction in JavaScript
-# alu_regex-data-extraction-{YourUsername}
-
 ## 📌 Project Overview
 This project is part of my **Regex Data Extraction Assignment**.  
 The goal is to build a web application (using JavaScript) that extracts specific types of data from text responses using **Regular Expressions (Regex)**.
